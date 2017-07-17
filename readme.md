@@ -23,3 +23,9 @@
 图片 ：
 
 ![这是一张娱乐图](http://p9.123.sogoucdn.com/imgu/2017/07/20170717112004_53.jpg)
+
+[^1]:This is my first footnote
+ 
+[^n]:Visit http://example.com
+ 
+[^n]:A final footnote
